@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Estrella Galicia",
+      "price": 10.99,
+      "quantity": 0,
+      "image": "./1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Colonia",
+      "price": 19.99,
+      "quantity": 0,
+      "image": "./2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Warsteiner",
+      "price": 7.5,
+      "quantity": 0,
+      "image": "./3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Super Bock",
+      "price": 5.99,
+      "quantity": 0,
+      "image": "./4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Faxe",
+      "price": 12.49,
+      "quantity": 0,
+      "image": "./5.jpg"
+    }
+  ]
+}
